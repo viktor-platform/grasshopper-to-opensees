@@ -1,0 +1,2 @@
+viktor==14.15.2
+openseespy
