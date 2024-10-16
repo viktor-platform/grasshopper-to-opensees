@@ -21,7 +21,7 @@ details.
 The geometry from Grasshopper is pushed to the VIKTOR app via the API. The Grasshopper file can be found here: 
 [grasshopper_viktor_push_geometry.gh](.grasshopper-files/grasshopper_viktor_push_geometry.gh). 
 
-![Step 1a](.viktor-template/grasshopper_viktor_push_geometry_step1a.gif)
+![Step 1a](grasshopper-files/grasshopper_viktor_push_geometry_step1a.gif)
 
 ### Step 1b: Apply loads
 For each load, a magnitude, direction and location can be defined.
