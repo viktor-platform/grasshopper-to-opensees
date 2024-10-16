@@ -55,17 +55,18 @@ Temporary Items
 # Compiled python code
 *.pyc
 
-# folder form Pycharm 
+# folder form Pycharm
 .idea/
 env
-.env
-venv
-.venv
 
 .coverage
 
 # Folder visual studio code
 .vscode/
+/venv
 
-# ZoneIdentifier for WSL2 users
-*Zone.Identifier
+# pycache
+__pycache__
+**/__pycache__/
+**/app/__pycache__
+**/app/__pycache__/
